@@ -145,3 +145,13 @@ If you encounter CORS-related issues, double-check that the allowed origins in t
 5. **Firewall Restrictions**: If the application is running on a machine with a firewall enabled, ensure that the necessary ports (9090, 54902 for both the backend and frontend) are open and accessible.
 
 6. **Insufficient Permissions**: Make sure that the user running the application has the necessary permissions to install packages, access the required directories, and run the application components.
+
+![Captura de pantalla 2024-06-18 115824](https://github.com/RodStack/NotesRodFullStack/assets/57158158/a412a1ca-74e2-4133-b29c-e4fa00f09c37)
+![Captura de pantalla 2024-06-18 115753](https://github.com/RodStack/NotesRodFullStack/assets/57158158/a1981b92-b68c-46b6-856e-77ba8d6f663a)
+![Captura de pantalla 2024-06-18 115735](https://github.com/RodStack/NotesRodFullStack/assets/57158158/821335cd-6b9b-4570-9e7c-95460256a83c)
+![Captura de pantalla 2024-06-18 115705](https://github.com/RodStack/NotesRodFullStack/assets/57158158/f49f3c34-4041-4b81-b8dd-0ab475b7dc55)
+![Captura de pantalla 2024-06-18 115550](https://github.com/RodStack/NotesRodFullStack/assets/57158158/9e5a9117-b7d4-46d2-994c-de3dedbe4701)
+
+
+
+
